@@ -1,9 +1,9 @@
 def addition(a, b):
     sum = a + b
-    print(sum)
+    print sum
+    return sum
 
 
 
-addition(-1, 3)
 
 
